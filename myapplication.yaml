@@ -1,4 +1,8 @@
 db:
    host: localhost
    port: 3306
-   message: my new database all again
+   message: my new database
+
+my:
+   greeting: Hello from config server
+   phone: Samsung phone
